@@ -1,0 +1,10 @@
+# Exported from Render on 2024-04-26T21:41:03Z
+services:
+- type: web
+  name: ggn2
+  runtime: static
+  repo: https://github.com/Kobby00/ggn
+  buildCommand: npm install
+  staticPublishPath: npm run dev
+  rootDir: client
+version: "1"
