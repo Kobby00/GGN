@@ -20,7 +20,7 @@ export const Charity = () => {
             adipisci maiores sit. Pariatur minima ad veniam dolorem repellendus
             quos? Assumenda amet sapiente pariatur quae eius.
           </p>
-          <button className="bg-[#ff5400] rounded-2xl py-3 px-10 text-white font-semibold shadow-2xl ml-2">
+          <button className="bg-[#ff5400] rounded-2xl py-3 px-10 tx:text-black lg:text-white font-semibold shadow-2xl ml-2">
             Read More
           </button>
         </div>
