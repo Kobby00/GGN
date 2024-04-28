@@ -1,9 +1,10 @@
-import donation1 from "../../public/donation1.jpg";
-import donation2 from "../../public/donation2.jpg";
-import donation3 from "../../public/donation3.jpg";
 import { ImageSlider } from "./ImageSlider";
 
-const IMAGES = [donation1, donation2, donation3];
+const IMAGES = [
+  "https://i.ibb.co/LJjTyHM/donation1.jpg",
+  "https://i.ibb.co/DWHrCGP/donation2.jpg",
+  "https://i.ibb.co/RyRVXKV/donation3.jpg",
+];
 
 export const Donation = () => {
   return (
