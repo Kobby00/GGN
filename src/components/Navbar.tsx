@@ -9,7 +9,7 @@ const Navbar = () => {
       <Link href="/">
         <Image
           priority={true}
-          src={"/ggn.jpg"}
+          src={"https://i.ibb.co/jh6pBLv/ggn.jpg"}
           alt="logo"
           width={40}
           height={29}
