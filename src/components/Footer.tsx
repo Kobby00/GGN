@@ -34,10 +34,10 @@ export const Footer = () => {
         </div>
         <div className="flex flex-col md:flex-row gap-20">
           <div className="p-5">
-            <ProductList products={products} title="Products" />
+            <ProductList products={products} title="About Us" />
           </div>
           <div className="p-5">
-            <ProductList products={company} title="Company" />
+            <ProductList products={company} title="Get Involved" />
           </div>
         </div>
       </div>

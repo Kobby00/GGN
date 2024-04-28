@@ -16,6 +16,13 @@ export const Card = () => {
       paragraph:
         "Dr. Amoako Atta, co-founder of Good News Network, embodies the essence of optimism and compassion. Since 2013, his unwavering dedication to spreading positivity has been instrumental in shaping the organization's mission. Dr. Atta's leadership inspires hope and uplifts communities, making a profound impact on the lives of many.",
     },
+    {
+      name: "Mr & Mrs Botwe",
+      role: "Co-Founders",
+      imageUrl: "https://i.ibb.co/HxsG47S/cofounder2.jpg",
+      paragraph:
+        "Mr. and Mrs. Botwe, the dynamic co-founders of Good News Network, embody unwavering dedication and passion for spreading positivity and uplifting communities through the gospel and the word of God. Their visionary leadership and tireless efforts have transformed countless lives, inspiring hope and fostering a culture of compassion. With a shared commitment to making a difference, they continue to pave the way for a brighter future, one act of kindness at a time",
+    },
   ];
   return (
     <div className="py-5 px-2 mt-4 lg:p-20">
@@ -25,7 +32,7 @@ export const Card = () => {
         <span className="tx:hidden lg:block">to help the helpless</span>
       </h1>
 
-      <div className="mb-4 sm:flex sm:p-6">
+      <div className="mb-4 sm:flex sm:px-10 flexBetween flex-wrap">
         {profiles.map((profile, index) => (
           <ProfileCard
             key={index}

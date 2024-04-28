@@ -5,5 +5,11 @@ export const NAV_LINKS = [
   { href: "/", key: "contact", label: "Contact" },
 ];
 
-export const products = ["Ride", "Drive", "Deliver", "Coach", "Rental"];
-export const company = ["Ride", "Drive", "Deliver", "Coach", "Rental"];
+export const products = [
+  "Our Approach",
+  "Our Leadership",
+  "Faith Statement",
+  "Financial Statement",
+  "Join Our Team",
+];
+export const company = ["Sponsor a Child", "Donate", "Camp Life", "Volunteer"];

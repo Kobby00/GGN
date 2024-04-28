@@ -17,7 +17,7 @@ const ProfileCard: React.FC<ProfileCardProps> = ({
   paragraph,
 }) => {
   return (
-    <div className="cursor-pointer px-2 rounded-2xl flex flex-col justify-start items-center border-gradient-to-1 from-[#ff5400] via-white to-[#ff5400] bg-gradient-to-tr mb-5">
+    <div className="cursor-pointer px-2 rounded-2xl border-gradient-to-1 from-[#ff5400] via-white to-[#ff5400] bg-gradient-to-tr mb-5">
       <div>
         <div className="flex justify-center items-center mt-3">
           <Image
@@ -42,3 +42,5 @@ const ProfileCard: React.FC<ProfileCardProps> = ({
 };
 
 export default ProfileCard;
+
+// flex flex-col justify-start items-center
