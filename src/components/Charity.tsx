@@ -10,13 +10,17 @@ export const Charity = () => {
             Welcome to our charity
           </h1>
           <p className="text-base text-center font-normal mb-6 whitespace-normal">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
-            laboriosam non pariatur quasi voluptas tenetur quaerat, reiciendis
-            architecto nobis accusantium nulla placeat maiores assumenda quam
-            excepturi, exercitationem saepe nostrum voluptates! Illum voluptas
-            deleniti consequatur minus cupiditate, totam culpa esse a nesciunt
-            aliquid iste consequuntur, quibusdam ipsam unde tempore odio quidem
-            eligendi necessitatibus vel reprehenderit. Ducimus dolorem mollitia
+            Welcome to our charity, a sanctuary of compassion and hope where
+            each individual's journey is embraced with warmth and understanding.
+            Here, we believe in the power of kindness and the transformative
+            impact of collective goodwill. With open arms, we invite you to be
+            part of our mission, where every act of generosity and support
+            creates ripples of positive change. Together, let's weave a tapestry
+            of love and empathy, reaching out to those in need and illuminating
+            the path towards a brighter tomorrow. Join us as we embark on this
+            journey of compassion and solidarity, where every hand extended in
+            kindness brings us closer to a world filled with hope and
+            resilience.
           </p>
           <button className="bg-[#ff5400] rounded-2xl py-3 px-10  text-white font-semibold shadow-2xl">
             Read More

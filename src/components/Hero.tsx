@@ -18,9 +18,10 @@ export default function EmblaCarousel() {
             className="w-full h-[20rem] object-cover lg:h-[30rem]"
           />
         </div>
+
         <div className="embla__slide">
           <Image
-            src={"https://i.ibb.co/qxbbnJQ/slider2.jpg"}
+            src={"https://i.ibb.co/P631wSL/slider3.jpg"}
             width={1000}
             height={100}
             alt="image"
@@ -29,7 +30,16 @@ export default function EmblaCarousel() {
         </div>
         <div className="embla__slide">
           <Image
-            src={"https://i.ibb.co/P631wSL/slider3.jpg"}
+            src={"https://i.ibb.co/M6zGh9T/slider4.jpg"}
+            width={1000}
+            height={100}
+            alt="image"
+            className="w-full object-cover h-[20rem]"
+          />
+        </div>
+        <div className="embla__slide">
+          <Image
+            src={"https://i.ibb.co/z610ZLk/slider2.jpg"}
             width={1000}
             height={100}
             alt="image"
