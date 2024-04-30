@@ -16,16 +16,16 @@ export const Card = () => {
       paragraph:
         "Dr. Amoako Atta, co-founder of Good News Network, embodies the essence of optimism and compassion. Since 2013, his unwavering dedication to spreading positivity has been instrumental in shaping the organization's mission. Dr. Atta's leadership inspires hope and uplifts communities, making a profound impact on the lives of many.",
     },
-    {
-      name: "Mr & Mrs Botwe",
-      role: "Co-Founders",
-      imageUrl: "https://i.ibb.co/HxsG47S/cofounder2.jpg",
-      paragraph:
-        "Mr. and Mrs. Botwe, the dynamic co-founders of Good News Network, embody unwavering dedication and passion for spreading positivity and uplifting communities through the gospel and the word of God. Their visionary leadership and tireless efforts have transformed countless lives, inspiring hope and fostering a culture of compassion. With a shared commitment to making a difference, they continue to pave the way for a brighter future, one act of kindness at a time",
-    },
+    // {
+    //   name: "Mr & Mrs Botwe",
+    //   role: "Co-Founders",
+    //   imageUrl: "https://i.ibb.co/HxsG47S/cofounder2.jpg",
+    //   paragraph:
+    //     "Mr. and Mrs. Botwe, the dynamic co-founders of Good News Network, embody unwavering dedication and passion for spreading positivity and uplifting communities through the gospel and the word of God. Their visionary leadership and tireless efforts have transformed countless lives, inspiring hope and fostering a culture of compassion. With a shared commitment to making a difference, they continue to pave the way for a brighter future, one act of kindness at a time",
+    // },
   ];
   return (
-    <div className="py-5 px-2 mt-4 lg:p-20">
+    <div className="py-5 px-8 mt-4 lg:p-20">
       <h1 className="text-center bold-40 mb-2">Who We Are</h1>
       <h1 className="text-center bold-52 mb-4 text-[#ff5400]">
         We are on a mission{" "}
