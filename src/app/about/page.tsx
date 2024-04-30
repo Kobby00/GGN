@@ -9,7 +9,7 @@ export default function about() {
       </div>
       <div>
         <Image
-          src={"/medicals.jpg"}
+          src={"https://i.ibb.co/t33w0wf/medicals.jpg"}
           width={1000}
           height={100}
           alt="image"
@@ -52,7 +52,7 @@ export default function about() {
       </div>
       <div className="ceo">
         <Image
-          src={"/ceo.jpg"}
+          src={"https://i.ibb.co/8KH2Ggf/ceo.jpg"}
           width={1000}
           height={100}
           alt="image"
@@ -77,7 +77,7 @@ export default function about() {
       </div>
       <div>
         <Image
-          src={"/give.jpg"}
+          src={"https://i.ibb.co/QpsQFTx/give.jpg"}
           width={1000}
           height={100}
           alt="image"
