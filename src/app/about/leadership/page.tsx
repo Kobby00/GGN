@@ -23,12 +23,12 @@ const details = [
   },
   {
     imageSrc: "https://i.ibb.co/10SN0kd/patron2.jpg",
-    name: "Mr & Mrs Asare-Botwe",
+    name: "Mr & Her Ladyship Mrs Asare-Botwe",
     position: "Patron",
   },
   {
     imageSrc: "https://i.ibb.co/rQykZKf/patron1.jpg",
-    name: "Dr & Her Ladyship Mrs Osei-Akoto",
+    name: "Dr & Mrs Osei-Akoto",
     position: "Patron",
   },
 ];
