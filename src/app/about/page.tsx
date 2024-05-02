@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { BsArrowLeft, BsArrowRight } from "react-icons/bs";
 
 export default function about() {
@@ -62,18 +63,17 @@ export default function about() {
         <h1 className="bold-32">Our Founder</h1>
         <br />
         <p>
-          Our founder, Nana Kwesi Boateng, is joined by an executive team, Board
-          of Directors, and leadership councils who bring a wealth of experience
-          and expertise to Good News Network. Together, in close collaboration
-          with our teams across the world, they shape our vision and strategy,
-          and share a steadfast belief that the communities we serve are the
-          best agents of their own change.
+          Our esteemed founders, Nana Kwesi Botwe and Dr. Amoako Atta, lead Good
+          News Network with vision and dedication. Together with our leadership
+          teams, they empower communities worldwide towards positive
+          transformation and self-driven progress.
         </p>
         <br />
-        <div className="flex items-center gap-4">
+
+        <Link href={"/about/leadership"} className="flex items-center gap-4">
           <h3 className="bold-18 hover:text-orange-50">Meet Our Leadership</h3>
           <BsArrowRight />
-        </div>
+        </Link>
       </div>
       <div>
         <Image

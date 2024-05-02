@@ -13,6 +13,7 @@ export default function Home() {
       <Card />
       <Charity />
       <Donation />
+
       <Testimonials />
     </>
   );
