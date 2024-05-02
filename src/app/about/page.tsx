@@ -63,9 +63,9 @@ export default function about() {
         <h1 className="bold-32">Our Founder</h1>
         <br />
         <p>
-          Our esteemed founders, Nana Kwesi Botwe and Dr. Amoako Atta, lead Good
-          News Network with vision and dedication. Together with our leadership
-          teams, they empower communities worldwide towards positive
+          Our esteemed founders, Lawrence Anin Botwe and Dr. Amoako Atta, lead
+          Good News Network with vision and dedication. Together with our
+          leadership teams, they empower communities worldwide towards positive
           transformation and self-driven progress.
         </p>
         <br />

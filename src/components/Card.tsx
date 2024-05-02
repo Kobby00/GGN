@@ -3,11 +3,11 @@ import ProfileCard from "./ReuseCard";
 export const Card = () => {
   const profiles = [
     {
-      name: "Nana Kwasi Botwe",
+      name: "Lawrence Anin Botwe",
       role: "Founder",
       imageUrl: "https://i.ibb.co/v1LSg9j/founder.jpg",
       paragraph:
-        "As the founder of Good News Network, Nana Kwasi Botwe has exemplified extraordinary leadership and vision since the organization's inception in 2013. With a deep-rooted passion for spreading positivity and uplifting communities, Nana Kwasi Botwe has been instrumental in driving Good News Network's mission forward. His unwavering dedication to promoting stories of hope and inspiration has touched countless lives, making a profound impact on individuals and communities worldwide.",
+        "As the founder of Good News Network, Lawrence Anin Botwe has exemplified extraordinary leadership and vision since the organization's inception in 2013. With a deep-rooted passion for spreading positivity and uplifting communities, Lawrence Anin Botwe has been instrumental in driving Good News Network's mission forward. His unwavering dedication to promoting stories of hope and inspiration has touched countless lives, making a profound impact on individuals and communities worldwide.",
     },
     {
       name: "Dr Amoako Atta",

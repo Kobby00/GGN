@@ -6,7 +6,7 @@ const details = [
   {
     title: "Our Leadership",
     imageSrc: "https://i.ibb.co/v1LSg9j/founder.jpg",
-    name: "Nana Kwasi Botwe",
+    name: "Lawrence Anin Botwe",
     position: "Founder & CEO",
   },
 
