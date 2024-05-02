@@ -28,7 +28,7 @@ const details = [
   },
   {
     imageSrc: "https://i.ibb.co/rQykZKf/patron1.jpg",
-    name: "Dr & Mrs Osei-Akoto",
+    name: "Dr & Her Ladyship Mrs Osei-Akoto",
     position: "Patron",
   },
 ];
