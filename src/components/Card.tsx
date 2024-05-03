@@ -28,8 +28,7 @@ export const Card = () => {
     <div className="py-5 px-8 mt-4 lg:p-20">
       <h1 className="text-center bold-40 mb-2">Who We Are</h1>
       <h1 className="text-center bold-52 mb-4 text-[#ff5400]">
-        We are on a mission{" "}
-        <span className="tx:hidden lg:block">to help the helpless</span>
+        We are on a mission <span className="">to help the helpless</span>
       </h1>
 
       <div className="mb-4 sm:flex sm:px-10 flexBetween flex-wrap">
